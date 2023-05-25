@@ -7,7 +7,7 @@ footer{
     justify-content:space-around;
 
     .caja {
-        @include box(yellow, 20px);
+        @include box(purple, 20px);
     }
     .caja2 {
         @include box(aqua, 30px);
